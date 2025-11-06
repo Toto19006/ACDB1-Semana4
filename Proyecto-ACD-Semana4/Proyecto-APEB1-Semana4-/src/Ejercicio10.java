@@ -33,5 +33,12 @@ public class Ejercicio10 {
     }
 }
 /**
- * 
+ * run:
+Ingrese la medida del lado del cuadrado: 
+10
+Ingrese la altura de los tri�ngulos rect�ngulos: 
+23
+El �rea total del pol�gono es: 675.0
+BUILD SUCCESSFUL (total time: 8 seconds)
+
  */
